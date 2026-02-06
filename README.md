@@ -43,7 +43,7 @@ NeuroTalk is an AI-powered chatbot application designed to make chatting with AI
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/NeuroTalk.git
+  https://github.com/Asrar-Ashraf/first-flutter-project-Neurotalk-application.git
    ```
 
 2. Install dependencies:
