@@ -1,18 +1,16 @@
-# NeuroTalk 🤖
+# flutter_Neurotalk_app
 
-NeuroTalk is an AI-powered chatbot application designed to make chatting with AI simple, smart, and helpful. Users can easily ask questions, get instant answers, and manage their chat history in one place.
+A new Flutter project.
 
----
+## Getting Started
 
-## 🚀 Features
+This project is a starting point for a Flutter application.
 
-* 🔐 **Sign in with Google**
-  Users can securely sign in using their Google account. This provides a fast, safe, and hassle-free authentication experience without the need to remember passwords.
+A few resources to get you started if this is your first Flutter project:
 
-* ☁️ **Firebase Integration**
-  NeuroTalk uses Firebase for backend services including authentication, database management, and secure storage. Firebase ensures real-time data sync and reliable performance.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-<<<<<<< HEAD
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
@@ -25,34 +23,33 @@ NeuroTalk is an AI-powered chatbot application designed to make chatting with AI
 
 ## 🚀 Features
 
-* 🔐 **Sign in with Google**
+![App Splash Screen](assets/images/splashs.jpeg)
+
+* 🔐 **Sign in with Google**  
+  ![Home Screen](assets/images/home.jpeg)
   Users can securely sign in using their Google account. This provides a fast, safe, and hassle-free authentication experience without the need to remember passwords.
 
 * ☁️ **Firebase Integration**
-  NeuroTalk uses Firebase for backend services including authentication, database management, and secure storage. Firebase ensures real-time data sync and reliable performance.
 
-=======
->>>>>>> ee1ec2240f2d1fde0b02ce40a6a2d917293f484a
-* 💬 **AI Chat (Typing Support)**
+* 💬 **AI Chat (Typing Support)**  
+  ![Chat Screen](assets/images/chat.jpeg)
   Users can chat with AI through a smooth and responsive text-based interface. The chatbot provides quick and accurate responses to user questions.
 
 * 🎙️ **Voice Chat Support**
-  Users can interact with the chatbot using voice input, making the experience more natural and hands-free. Voice queries are processed and answered intelligently by the AI.
 
-* 🕒 **Chat History Management**
+* 🕒 **Chat History Management**  
+  ![History Screen](assets/images/history.jpeg)
   All conversations are automatically saved in the database. Users can view their previous chats anytime, helping them track questions and answers easily.
 
 * ✏️ **Edit Profile**
-  Users can update and manage their profile information such as name and profile picture directly from the application.
 
 * ♻️ **Reset Chat**
-  Users can reset or clear their chat history whenever they want, allowing them to start a fresh conversation with the AI.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Frontend: *(Add your framework here, e.g. React / Flutter)*
+* Frontend: **Flutter**
 * Backend: Firebase
 * Authentication: Google Sign-In (Firebase Auth)
 * Database: Firebase Firestore / Realtime Database
@@ -64,29 +61,4 @@ NeuroTalk is an AI-powered chatbot application designed to make chatting with AI
 1. Clone the repository:
 
    ```bash
-  https://github.com/Asrar-Ashraf/first-flutter-project-Neurotalk-application.git
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Configure Firebase:
-
-   * Create a Firebase project
-   * Enable Google Authentication
-   * Add Firebase config to your project
-
-4. Run the application:
-
-   ```bash
-   npm start
-   ```
-
----
-<<<<<<< HEAD
-
-=======
->>>>>>> ee1ec2240f2d1fde0b02ce40a6a2d917293f484a
+   git clone https://github.com/Asrar-Ashraf/first-flutter-project-Neurotalk-application.git
