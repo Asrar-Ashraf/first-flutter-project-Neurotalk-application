@@ -4,7 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 
 class ChatService {
   // API KEY
-  static const String _apiKey = 'AIzaSyA8_QVZHGPQTXhC2GjB-UdGJyhfkeqdEM0';
+  static const String _apiKey = 'Enter you own API key';
 
   static final GenerativeModel _model = GenerativeModel(
     model: 'gemini-2.5-flash',
